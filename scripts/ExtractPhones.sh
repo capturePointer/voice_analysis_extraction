@@ -15,6 +15,6 @@ isFromPraat=$3
 
 for lab in lab/*.lab; do
   base=$(basename $lab .lab)
-  python ../get_phone_audio.py $lab wav/$base.wav "$phone" phone_out/ $isFromPraat
+  python ../get_phone_audio.py $lab wav/$base.wav "$phone" $2 $isFromPraat
 done
 
