@@ -1,0 +1,137 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0.0 
+xmax = 2.9900004 
+tiers? <exists> 
+size = 1 
+item []: 
+item [1]:
+class = "IntervalTier" 
+name = "phones" 
+xmin = 0.0 
+xmax = 2.9900004 
+intervals: size = 31 
+intervals [1]:
+xmin = 0.0 
+xmax = 0.045 
+text = "w" 
+intervals [2]:
+xmin = 0.045 
+xmax = 0.09 
+text = "I" 
+intervals [3]:
+xmin = 0.09 
+xmax = 0.23 
+text = "tS" 
+intervals [4]:
+xmin = 0.23 
+xmax = 0.29000002 
+text = "r\" 
+intervals [5]:
+xmin = 0.29000002 
+xmax = 0.365 
+text = "e" 
+intervals [6]:
+xmin = 0.365 
+xmax = 0.44500002 
+text = "z" 
+intervals [7]:
+xmin = 0.44500002 
+xmax = 0.49500003 
+text = "@" 
+intervals [8]:
+xmin = 0.49500003 
+xmax = 0.54 
+text = "l" 
+intervals [9]:
+xmin = 0.54 
+xmax = 0.64500004 
+text = "}:" 
+intervals [10]:
+xmin = 0.64500004 
+xmax = 0.77000004 
+text = "S" 
+intervals [11]:
+xmin = 0.77000004 
+xmax = 0.89000005 
+text = "n" 
+intervals [12]:
+xmin = 0.89000005 
+xmax = 1.0250001 
+text = "k" 
+intervals [13]:
+xmin = 1.0250001 
+xmax = 1.1150001 
+text = "6" 
+intervals [14]:
+xmin = 1.1150001 
+xmax = 1.1900002 
+text = "m" 
+intervals [15]:
+xmin = 1.1900002 
+xmax = 1.3100002 
+text = "f" 
+intervals [16]:
+xmin = 1.3100002 
+xmax = 1.3900002 
+text = "@" 
+intervals [17]:
+xmin = 1.3900002 
+xmax = 1.4750003 
+text = "t" 
+intervals [18]:
+xmin = 1.4750003 
+xmax = 1.5350003 
+text = "@" 
+intervals [19]:
+xmin = 1.5350003 
+xmax = 1.6000004 
+text = "d" 
+intervals [20]:
+xmin = 1.6000004 
+xmax = 1.6900004 
+text = "h" 
+intervals [21]:
+xmin = 1.6900004 
+xmax = 1.8750005 
+text = "3:" 
+intervals [22]:
+xmin = 1.8750005 
+xmax = 1.9750005 
+text = "{" 
+intervals [23]:
+xmin = 1.9750005 
+xmax = 2.0400004 
+text = "b" 
+intervals [24]:
+xmin = 2.0400004 
+xmax = 2.1350005 
+text = "s" 
+intervals [25]:
+xmin = 2.1350005 
+xmax = 2.1750004 
+text = "@" 
+intervals [26]:
+xmin = 2.1750004 
+xmax = 2.2300005 
+text = "l" 
+intervals [27]:
+xmin = 2.2300005 
+xmax = 2.3350005 
+text = "}:" 
+intervals [28]:
+xmin = 2.3350005 
+xmax = 2.4400005 
+text = "t" 
+intervals [29]:
+xmin = 2.4400005 
+xmax = 2.5000005 
+text = "l" 
+intervals [30]:
+xmin = 2.5000005 
+xmax = 2.7150004 
+text = "i:" 
+intervals [31]:
+xmin = 2.7150004 
+xmax = 2.9900004 
+text = "_" 

@@ -1,0 +1,113 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0.0 
+xmax = 2.85 
+tiers? <exists> 
+size = 1 
+item []: 
+item [1]:
+class = "IntervalTier" 
+name = "phones" 
+xmin = 0.0 
+xmax = 2.85 
+intervals: size = 25 
+intervals [1]:
+xmin = 0.0 
+xmax = 0.095000006 
+text = "{" 
+intervals [2]:
+xmin = 0.095000006 
+xmax = 0.14000002 
+text = "l" 
+intervals [3]:
+xmin = 0.14000002 
+xmax = 0.20500001 
+text = "@" 
+intervals [4]:
+xmin = 0.20500001 
+xmax = 0.34000003 
+text = "s" 
+intervals [5]:
+xmin = 0.34000003 
+xmax = 0.41500002 
+text = "g" 
+intervals [6]:
+xmin = 0.41500002 
+xmax = 0.57000005 
+text = "{I" 
+intervals [7]:
+xmin = 0.57000005 
+xmax = 0.62500006 
+text = "v" 
+intervals [8]:
+xmin = 0.62500006 
+xmax = 0.7800001 
+text = "{I" 
+intervals [9]:
+xmin = 0.7800001 
+xmax = 0.8850001 
+text = "l" 
+intervals [10]:
+xmin = 0.8850001 
+xmax = 1.1400001 
+text = "{O" 
+intervals [11]:
+xmin = 1.1400001 
+xmax = 1.195 
+text = "d" 
+intervals [12]:
+xmin = 1.195 
+xmax = 1.465 
+text = "_" 
+intervals [13]:
+xmin = 1.465 
+xmax = 1.62 
+text = "s" 
+intervals [14]:
+xmin = 1.62 
+xmax = 1.6800001 
+text = "I" 
+intervals [15]:
+xmin = 1.6800001 
+xmax = 1.725 
+text = "l" 
+intervals [16]:
+xmin = 1.725 
+xmax = 1.815 
+text = "i:" 
+intervals [17]:
+xmin = 1.815 
+xmax = 1.8800001 
+text = "l" 
+intervals [18]:
+xmin = 1.8800001 
+xmax = 1.9500002 
+text = "I" 
+intervals [19]:
+xmin = 1.9500002 
+xmax = 2.0500002 
+text = "t" 
+intervals [20]:
+xmin = 2.0500002 
+xmax = 2.14 
+text = "l" 
+intervals [21]:
+xmin = 2.14 
+xmax = 2.2450001 
+text = "t" 
+intervals [22]:
+xmin = 2.2450001 
+xmax = 2.305 
+text = "I" 
+intervals [23]:
+xmin = 2.305 
+xmax = 2.45 
+text = "t" 
+intervals [24]:
+xmin = 2.45 
+xmax = 2.585 
+text = "@" 
+intervals [25]:
+xmin = 2.585 
+xmax = 2.85 
+text = "_" 

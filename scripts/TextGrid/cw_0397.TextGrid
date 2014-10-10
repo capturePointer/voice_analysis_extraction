@@ -1,0 +1,121 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0.0 
+xmax = 3.1250003 
+tiers? <exists> 
+size = 1 
+item []: 
+item [1]:
+class = "IntervalTier" 
+name = "phones" 
+xmin = 0.0 
+xmax = 3.1250003 
+intervals: size = 27 
+intervals [1]:
+xmin = 0.0 
+xmax = 0.080000006 
+text = "h" 
+intervals [2]:
+xmin = 0.080000006 
+xmax = 0.16000001 
+text = "I@" 
+intervals [3]:
+xmin = 0.16000001 
+xmax = 0.23000002 
+text = "w" 
+intervals [4]:
+xmin = 0.23000002 
+xmax = 0.32500002 
+text = "O" 
+intervals [5]:
+xmin = 0.32500002 
+xmax = 0.41500002 
+text = "z" 
+intervals [6]:
+xmin = 0.41500002 
+xmax = 0.53000003 
+text = "s" 
+intervals [7]:
+xmin = 0.53000003 
+xmax = 0.62500006 
+text = "6" 
+intervals [8]:
+xmin = 0.62500006 
+xmax = 0.69500005 
+text = "m" 
+intervals [9]:
+xmin = 0.69500005 
+xmax = 0.74500006 
+text = "w" 
+intervals [10]:
+xmin = 0.74500006 
+xmax = 0.83500004 
+text = "6" 
+intervals [11]:
+xmin = 0.83500004 
+xmax = 0.9250001 
+text = "n" 
+intervals [12]:
+xmin = 0.9250001 
+xmax = 1.0050001 
+text = "b" 
+intervals [13]:
+xmin = 1.0050001 
+xmax = 1.0700002 
+text = "I" 
+intervals [14]:
+xmin = 1.0700002 
+xmax = 1.1950002 
+text = "s" 
+intervals [15]:
+xmin = 1.1950002 
+xmax = 1.3450001 
+text = "Ae" 
+intervals [16]:
+xmin = 1.3450001 
+xmax = 1.4100002 
+text = "d" 
+intervals [17]:
+xmin = 1.4100002 
+xmax = 1.5000002 
+text = "h" 
+intervals [18]:
+xmin = 1.5000002 
+xmax = 1.6400002 
+text = "3:" 
+intervals [19]:
+xmin = 1.6400002 
+xmax = 1.7050003 
+text = "l" 
+intervals [20]:
+xmin = 1.7050003 
+xmax = 1.8550003 
+text = "6:" 
+intervals [21]:
+xmin = 1.8550003 
+xmax = 1.9800003 
+text = "f" 
+intervals [22]:
+xmin = 1.9800003 
+xmax = 2.0800002 
+text = "I" 
+intervals [23]:
+xmin = 2.0800002 
+xmax = 2.2350001 
+text = "N" 
+intervals [24]:
+xmin = 2.2350001 
+xmax = 2.5050001 
+text = "_" 
+intervals [25]:
+xmin = 2.5050001 
+xmax = 2.6450002 
+text = "t" 
+intervals [26]:
+xmin = 2.6450002 
+xmax = 2.8550003 
+text = "}:" 
+intervals [27]:
+xmin = 2.8550003 
+xmax = 3.1250003 
+text = "_" 
