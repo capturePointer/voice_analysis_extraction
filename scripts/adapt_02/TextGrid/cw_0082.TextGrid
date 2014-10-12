@@ -1,0 +1,141 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0.0 
+xmax = 3.0950001 
+tiers? <exists> 
+size = 1 
+item []: 
+item [1]:
+class = "IntervalTier" 
+name = "phones" 
+xmin = 0.0 
+xmax = 3.0950001 
+intervals: size = 32 
+intervals [1]:
+xmin = 0.0 
+xmax = 0.060000002 
+text = "D" 
+intervals [2]:
+xmin = 0.060000002 
+xmax = 0.19000001 
+text = "{I" 
+intervals [3]:
+xmin = 0.19000001 
+xmax = 0.28000003 
+text = "w" 
+intervals [4]:
+xmin = 0.28000003 
+xmax = 0.42000002 
+text = "3:" 
+intervals [5]:
+xmin = 0.42000002 
+xmax = 0.51 
+text = "d" 
+intervals [6]:
+xmin = 0.51 
+xmax = 0.57 
+text = "r\" 
+intervals [7]:
+xmin = 0.57 
+xmax = 0.64 
+text = "e" 
+intervals [8]:
+xmin = 0.64 
+xmax = 0.745 
+text = "s" 
+intervals [9]:
+xmin = 0.745 
+xmax = 0.83 
+text = "t" 
+intervals [10]:
+xmin = 0.83 
+xmax = 0.875 
+text = "@" 
+intervals [11]:
+xmin = 0.875 
+xmax = 0.925 
+text = "l" 
+intervals [12]:
+xmin = 0.925 
+xmax = 1.05 
+text = "Ae" 
+intervals [13]:
+xmin = 1.05 
+xmax = 1.155 
+text = "k" 
+intervals [14]:
+xmin = 1.155 
+xmax = 1.2149999 
+text = "I" 
+intervals [15]:
+xmin = 1.2149999 
+xmax = 1.29 
+text = "n" 
+intervals [16]:
+xmin = 1.29 
+xmax = 1.375 
+text = "b" 
+intervals [17]:
+xmin = 1.375 
+xmax = 1.425 
+text = "l" 
+intervals [18]:
+xmin = 1.425 
+xmax = 1.535 
+text = "}:" 
+intervals [19]:
+xmin = 1.535 
+xmax = 1.63 
+text = "dZ" 
+intervals [20]:
+xmin = 1.63 
+xmax = 1.78 
+text = "3:" 
+intervals [21]:
+xmin = 1.78 
+xmax = 1.865 
+text = "z" 
+intervals [22]:
+xmin = 1.865 
+xmax = 1.98 
+text = "i:" 
+intervals [23]:
+xmin = 1.98 
+xmax = 2.065 
+text = "z" 
+intervals [24]:
+xmin = 2.065 
+xmax = 2.165 
+text = "{" 
+intervals [25]:
+xmin = 2.165 
+xmax = 2.24 
+text = "n" 
+intervals [26]:
+xmin = 2.24 
+xmax = 2.275 
+text = "d" 
+intervals [27]:
+xmin = 2.275 
+xmax = 2.335 
+text = "n" 
+intervals [28]:
+xmin = 2.335 
+xmax = 2.4 
+text = "I" 
+intervals [29]:
+xmin = 2.4 
+xmax = 2.535 
+text = "k" 
+intervals [30]:
+xmin = 2.535 
+xmax = 2.64 
+text = "@" 
+intervals [31]:
+xmin = 2.64 
+xmax = 2.8500001 
+text = "z" 
+intervals [32]:
+xmin = 2.8500001 
+xmax = 3.0950001 
+text = "_" 

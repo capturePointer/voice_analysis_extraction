@@ -1,0 +1,129 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0.0 
+xmax = 2.89 
+tiers? <exists> 
+size = 1 
+item []: 
+item [1]:
+class = "IntervalTier" 
+name = "phones" 
+xmin = 0.0 
+xmax = 2.89 
+intervals: size = 29 
+intervals [1]:
+xmin = 0.0 
+xmax = 0.045 
+text = "w" 
+intervals [2]:
+xmin = 0.045 
+xmax = 0.14000002 
+text = "O" 
+intervals [3]:
+xmin = 0.14000002 
+xmax = 0.20500001 
+text = "t" 
+intervals [4]:
+xmin = 0.20500001 
+xmax = 0.26500002 
+text = "r\" 
+intervals [5]:
+xmin = 0.26500002 
+xmax = 0.40500003 
+text = "Ae" 
+intervals [6]:
+xmin = 0.40500003 
+xmax = 0.47500002 
+text = "t" 
+intervals [7]:
+xmin = 0.47500002 
+xmax = 0.56500006 
+text = "h" 
+intervals [8]:
+xmin = 0.56500006 
+xmax = 0.6600001 
+text = "{" 
+intervals [9]:
+xmin = 0.6600001 
+xmax = 0.7300001 
+text = "v" 
+intervals [10]:
+xmin = 0.7300001 
+xmax = 0.7900001 
+text = "D" 
+intervals [11]:
+xmin = 0.7900001 
+xmax = 0.9750001 
+text = "{I" 
+intervals [12]:
+xmin = 0.9750001 
+xmax = 1.1200001 
+text = "i:" 
+intervals [13]:
+xmin = 1.1200001 
+xmax = 1.1650001 
+text = "v" 
+intervals [14]:
+xmin = 1.1650001 
+xmax = 1.2800001 
+text = "n" 
+intervals [15]:
+xmin = 1.2800001 
+xmax = 1.3850001 
+text = "t" 
+intervals [16]:
+xmin = 1.3850001 
+xmax = 1.4200001 
+text = "@" 
+intervals [17]:
+xmin = 1.4200001 
+xmax = 1.57 
+text = "k" 
+intervals [18]:
+xmin = 1.57 
+xmax = 1.605 
+text = "w" 
+intervals [19]:
+xmin = 1.605 
+xmax = 1.6750001 
+text = "e" 
+intervals [20]:
+xmin = 1.6750001 
+xmax = 1.8100001 
+text = "s" 
+intervals [21]:
+xmin = 1.8100001 
+xmax = 1.9000001 
+text = "tS" 
+intervals [22]:
+xmin = 1.9000001 
+xmax = 1.96 
+text = "@" 
+intervals [23]:
+xmin = 1.96 
+xmax = 2.045 
+text = "n" 
+intervals [24]:
+xmin = 2.045 
+xmax = 2.19 
+text = "i:" 
+intervals [25]:
+xmin = 2.19 
+xmax = 2.335 
+text = "tS" 
+intervals [26]:
+xmin = 2.335 
+xmax = 2.425 
+text = "6" 
+intervals [27]:
+xmin = 2.425 
+xmax = 2.49 
+text = "D" 
+intervals [28]:
+xmin = 2.49 
+xmax = 2.625 
+text = "@" 
+intervals [29]:
+xmin = 2.625 
+xmax = 2.89 
+text = "_" 

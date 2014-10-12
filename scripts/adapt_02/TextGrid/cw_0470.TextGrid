@@ -1,0 +1,129 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0.0 
+xmax = 2.87 
+tiers? <exists> 
+size = 1 
+item []: 
+item [1]:
+class = "IntervalTier" 
+name = "phones" 
+xmin = 0.0 
+xmax = 2.87 
+intervals: size = 29 
+intervals [1]:
+xmin = 0.0 
+xmax = 0.060000002 
+text = "D" 
+intervals [2]:
+xmin = 0.060000002 
+xmax = 0.19000001 
+text = "{I" 
+intervals [3]:
+xmin = 0.19000001 
+xmax = 0.28000003 
+text = "w" 
+intervals [4]:
+xmin = 0.28000003 
+xmax = 0.42000002 
+text = "3:" 
+intervals [5]:
+xmin = 0.42000002 
+xmax = 0.51 
+text = "h" 
+intervals [6]:
+xmin = 0.51 
+xmax = 0.635 
+text = "{" 
+intervals [7]:
+xmin = 0.635 
+xmax = 0.71 
+text = "n" 
+intervals [8]:
+xmin = 0.71 
+xmax = 0.745 
+text = "d" 
+intervals [9]:
+xmin = 0.745 
+xmax = 0.805 
+text = "@" 
+intervals [10]:
+xmin = 0.805 
+xmax = 0.87 
+text = "d" 
+intervals [11]:
+xmin = 0.87 
+xmax = 1.015 
+text = "tS" 
+intervals [12]:
+xmin = 1.015 
+xmax = 1.0699999 
+text = "e" 
+intervals [13]:
+xmin = 1.0699999 
+xmax = 1.165 
+text = "r\" 
+intervals [14]:
+xmin = 1.165 
+xmax = 1.255 
+text = "i:" 
+intervals [15]:
+xmin = 1.255 
+xmax = 1.39 
+text = "k" 
+intervals [16]:
+xmin = 1.39 
+xmax = 1.515 
+text = "{I" 
+intervals [17]:
+xmin = 1.515 
+xmax = 1.635 
+text = "k" 
+intervals [18]:
+xmin = 1.635 
+xmax = 1.67 
+text = "w" 
+intervals [19]:
+xmin = 1.67 
+xmax = 1.7049999 
+text = "I" 
+intervals [20]:
+xmin = 1.7049999 
+xmax = 1.8549999 
+text = "T" 
+intervals [21]:
+xmin = 1.8549999 
+xmax = 1.8999999 
+text = "w" 
+intervals [22]:
+xmin = 1.8999999 
+xmax = 1.9449998 
+text = "I" 
+intervals [23]:
+xmin = 1.9449998 
+xmax = 2.0199997 
+text = "p" 
+intervals [24]:
+xmin = 2.0199997 
+xmax = 2.0649998 
+text = "t" 
+intervals [25]:
+xmin = 2.0649998 
+xmax = 2.215 
+text = "k" 
+intervals [26]:
+xmin = 2.215 
+xmax = 2.32 
+text = "r\" 
+intervals [27]:
+xmin = 2.32 
+xmax = 2.475 
+text = "i:" 
+intervals [28]:
+xmin = 2.475 
+xmax = 2.615 
+text = "m" 
+intervals [29]:
+xmin = 2.615 
+xmax = 2.87 
+text = "_" 
