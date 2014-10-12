@@ -72,12 +72,6 @@ class SpeechLabel:
                 
         return labels
 
-
-
-
-
-
-
     def StripWavFile(self, startTime, endTime, saveAsFilename="",  minTime=-1):
         import wave
         w = wave.open(self.audioFile)
